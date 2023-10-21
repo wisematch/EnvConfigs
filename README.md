@@ -16,3 +16,7 @@ sudo bash -c 'echo "[network]" > /etc/wsl.conf'
 sudo bash -c 'echo "generateResolvConf = false" >> /etc/wsl.conf'
 sudo chattr +i /etc/resolv.conf
 ```
+
+## Proxy
+1. Install V2rayN [https://github.com/2dust/v2rayN/releases]
+2. Update Rules [https://github.com/Loyalsoldier/v2ray-rules-dat]
