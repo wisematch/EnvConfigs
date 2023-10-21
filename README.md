@@ -19,4 +19,4 @@ sudo chattr +i /etc/resolv.conf
 
 ## Proxy
 1. Install V2rayN [https://github.com/2dust/v2rayN/releases]
-2. Update Rules [https://github.com/Loyalsoldier/v2ray-rules-dat]
+2. Download Proxy config or update new rules through [https://github.com/Loyalsoldier/v2ray-rules-dat]
