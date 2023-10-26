@@ -25,8 +25,8 @@ sudo chattr +i /etc/resolv.conf
 Install [Source Han Serif](https://source.typekit.com/source-han-serif/cn/) and [Code New Roman](https://www.dafont.com/code-new-roman.font).
 
 ## Some Application Settings
-Pycharm: Sync via account.
-Edge: Sync via account.
-Windows Terminal: In `WinTerminal`.
+**Pycharm:** Sync via account.  
+**Edge:** Sync via account.  
+**Windows Terminal:** In `WinTerminal`.  
 
 
