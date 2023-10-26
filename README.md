@@ -18,5 +18,15 @@ sudo chattr +i /etc/resolv.conf
 ```
 
 ## Proxy
-1. Install V2rayN [https://github.com/2dust/v2rayN/releases]
-2. Download Proxy config or update new rules through [https://github.com/Loyalsoldier/v2ray-rules-dat]
+1. Install [V2rayN V3.29](https://github.com/2dust/v2rayN/releases/download/3.29/v2rayN-Core.zip)
+2. Download Proxy config or update new rules through [this repo.](https://github.com/Loyalsoldier/v2ray-rules-dat)
+
+## Font
+Install [Source Han Serif](https://source.typekit.com/source-han-serif/cn/) and [Code New Roman](https://www.dafont.com/code-new-roman.font).
+
+## Some Application Settings
+Pycharm: Sync via account.
+Edge: Sync via account.
+Windows Terminal: In `WinTerminal`.
+
+
