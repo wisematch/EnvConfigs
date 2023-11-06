@@ -2,11 +2,6 @@ if status is-interactive
     # Commands to run in interactive sessions can go here
 end
 
-
-
-
-
-
 # add for proxy
 # For V2ray
 # export hostip=(ip route | grep default | awk '{print $3}')
@@ -37,4 +32,4 @@ function unproxy
     unset ALL_PROXY;
     sudo sed -i -e '/Acquire::http::Proxy/d' /etc/apt/apt.conf.d/proxy.conf;
     sudo sed -i -e '/Acquire::https::Proxy/d' /etc/apt/apt.conf.d/proxy.conf;
-       
+end
